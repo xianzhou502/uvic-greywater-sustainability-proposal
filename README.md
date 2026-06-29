@@ -150,7 +150,7 @@ WaterWise offers value to businesses through both environmental and economic ben
 | File                                            | Description                                                                                       |
 | ----------------------------------------------- | ------------------------------------------------------------------------------------------------- |
 
-| `WaterWise_Sustainable_Marketing_Proposal.pdf`  | Optional PDF version of the report for easier viewing on GitHub                                   |
+| `WaterWise_Sustainable_Marketing_Proposal.pdf`  | PDF version of the report for easier viewing on GitHub                                   |
 
 ## Skills Demonstrated
 
